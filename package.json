@@ -1,0 +1,26 @@
+{
+  "name": "cros2025",
+  "version": "1.0.0",
+  "description": "The website for the CROS 2025 conference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/h3ct0r/cros_2025_html.git"
+  },
+  "author": "h3ct0r & aaneto2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h3ct0r/cros_2025_html/issues"
+  },
+  "homepage": "https://github.com/h3ct0r/cros_2025_html#readme",
+  "devDependencies": {
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-prettify": "^0.4.0"
+  }
+}
