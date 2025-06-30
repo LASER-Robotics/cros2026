@@ -1,4 +1,4 @@
-# cros_2025_html
+# cros2026
 
 ### Grunt tutorial
 
@@ -25,7 +25,7 @@
 
 ### Create production ready version
 
-- `cd cros_2025_html`
+- `cd cros2026`
 - `grunt`
 - Copy the files from the `dist/*` directory to the webserver
 
