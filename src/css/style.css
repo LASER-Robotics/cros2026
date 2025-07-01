@@ -8427,7 +8427,7 @@ img {
 
 .clients-section .sponsors-outer .image-box {
 	position: relative;
-	text-align: center;
+	text-align: left;
 	margin-bottom: 0;
 	border: 1px solid #dddddd;
 	box-shadow: 0 0 30px rgba(0, 0, 0, 0.10);
